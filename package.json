@@ -1,0 +1,12 @@
+{
+  "name": "react-typescript-typed-css-modules",
+  "version": "1.0.0",
+  "description": "This repo is reproduce that latest typings css module loader is not issue with Babel loader in webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Halil Kayer",
+  "license": "MIT"
+}
